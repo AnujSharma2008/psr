@@ -8133,9 +8133,9 @@ GM_addStyle(`
             transition: all 0.1s ease-out;
             padding: 0 15px;
             box-sizing: border-box;
-            position: relative;
+            position: fixed;
             overflow: hidden;
-            right: -70px;
+            right: 70px;
             top: 250px;
         }
 
