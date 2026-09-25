@@ -14525,7 +14525,7 @@ button[name="chooseShift"] {
     box-sizing: border-box !important;
     margin-bottom: 3px !important;
     padding-left: 27px !important;
-    background: url("https://i.ibb.co/WvPZPKzv/lvl-indicator.png") center / 100%
+    background: url("https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/lvl-indicator.png") center / 100%
         100% no-repeat !important;
     border: none !important;
     color: #fff !important;
