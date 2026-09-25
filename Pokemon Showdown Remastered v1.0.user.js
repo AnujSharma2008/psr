@@ -13158,7 +13158,16 @@ observer.observe(
     </div>
 
 </div>`;
-
+if (
+    window.location.hostname === "pokepast.es" ||
+    window.location.hostname === "www.pokepast.es"
+) {
+    overlay.style.setProperty(
+        "display",
+        "none",
+        "important"
+    );
+}
     document.body.insertAdjacentHTML(
         "beforeend",
         popupHTML
