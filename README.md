@@ -1,68 +1,127 @@
 # ✨ Pokémon Showdown Remastered
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/pokemonshowdownbeta.png" alt="Pokémon Showdown">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/remastered-ps-giratina.png" alt="Pokémon Showdown">
 </p>
 
-<h3 align="center">
-  A refreshed Pokémon Showdown experience.
-</h3>
+<h3 align="center">A refreshed Pokémon Showdown experience.</h3>
 
 <p align="center">
-  Cleaner visuals • Better resources • Battle enhancements • Quality-of-life improvements
+  Cleaner visuals • Enhanced battles • Custom themes • PokéPaste • Quality-of-life improvements
+</p>
+
+<p align="center">
+  <a href="https://greasyfork.org/">Greasy Fork</a> •
+  <a href="https://github.com/AnujSharma2008/psr">GitHub</a> •
+  <a href="https://discord.com/users/1551680556474040343">Discord</a>
 </p>
 
 ---
 
 ## 💙 About
 
-**Pokémon Showdown Remastered** is a community-made client customization focused on improving the presentation, visuals, and usability of Pokémon Showdown.
-
-The goal is simple:
+**Pokémon Showdown Remastered** is a community-made client customization focused on improving the visual presentation, resources, and overall usability of Pokémon Showdown.
 
 > **Keep the familiar Pokémon Showdown experience while making it cleaner, smoother, and more enjoyable.**
 
-Remastered introduces refreshed visual resources, custom themes, battle enhancements, integrated tools, PokéPaste functionality, and numerous smaller quality-of-life improvements.
+Remastered introduces refreshed resources, custom themes, enhanced battle visuals, integrated PokéPaste functionality, and numerous quality-of-life improvements across the client.
 
 > ⚠️ Pokémon Showdown Remastered is an independent community project and is not affiliated with or officially endorsed by Pokémon Showdown or The Pokémon Company.
 
 ---
 
-# 🌟 Features
+# 🛠️ Installation
 
-### 🎨 Refreshed Visual Experience
+Getting started takes only a few steps.
 
-- Completely refreshed interface styling
-- Cleaner and more consistent visual presentation
-- Improved profiles and user name colors
-- Refined homepage and client interface
-- Updated Teambuilder appearance
-- Smoother transitions throughout the client
-- Custom UI elements, buttons, menus and panels
-- Improved visual feedback and consistency
+### 1. Download Tampermonkey
 
-### 🎭 Custom Themes
+Install **Tampermonkey** for your browser.
 
-- Multiple custom backgrounds
-- Color-coded themes across the client
-- Custom theme system
-- More themes and customization planned
+**[→ Download Tampermonkey for Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme1.png" width="48%">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme2.png" width="48%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/installation1.jpg" width="80%" alt="Install Tampermonkey">
+</p>
+
+### 2. Open Tampermonkey
+
+Open your browser's:
+
+**Extensions → Manage Extensions → Tampermonkey**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/installation2.jpg" width="80%" alt="Manage Tampermonkey">
+</p>
+
+### 3. Enable Userscripts
+
+Make sure **Allow User Scripts** is enabled.
+
+If your browser requires it, also enable **Developer Mode**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/installation3.jpg" width="80%" alt="Enable User Scripts">
+</p>
+
+### 4. Install Remastered
+
+Open the Remastered userscript from **[Greasy Fork](https://greasyfork.org/)** or **[GitHub](https://github.com/AnujSharma2008/psr)**.
+
+Click **Install** and confirm the installation.
+
+That's it. 🎉
+
+**Refresh Pokémon Showdown and Remastered will load automatically.**
+
+---
+
+# 🌟 Features
+
+## 🎨 Refreshed Visual Experience
+
+Remastered gives the client a completely refreshed visual identity while keeping the familiar Showdown experience.
+
+- Cleaner and more consistent interface
+- Redesigned menus, panels and buttons
+- Improved profiles and user name colors
+- Refined homepage presentation
+- Updated Teambuilder styling
+- Smoother transitions and animations
+- Improved visual feedback
+- Consistent styling across the client
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/homepage.png" width="80%" alt="Remastered Homepage">
+</p>
+
+---
+
+## 🎭 Custom Themes
+
+Remastered introduces custom themes designed to give the client a more immersive and personalized appearance.
+
+- Multiple custom backgrounds
+- Color-coded themes
+- Consistent theme styling across the client
+- Custom visual resources
+- Additional customization planned
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme1.png" width="48%" alt="Remastered Theme 1">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme2.png" width="48%" alt="Remastered Theme 2">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme3.png" width="48%">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme4.png" width="48%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme3.png" width="48%" alt="Remastered Theme 3">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme4.png" width="48%" alt="Remastered Theme 4">
 </p>
 
 ---
 
 # ⚔️ Battle Enhancements
 
-Remastered improves the visual experience of battles without changing the fundamental battle mechanics.
+Remastered enhances the visual presentation of battles without changing the fundamental battle mechanics.
 
 ### Battle improvements include:
 
@@ -70,67 +129,51 @@ Remastered improves the visual experience of battles without changing the fundam
 - Improved Pokémon model contrast
 - Redesigned battle interface
 - Improved move buttons and tooltips
-- Custom Mega Evolution, Z-Move and Dynamax interface elements
-- Larger battle screen
-- Improved Doubles and Triples presentation
+- Enhanced Mega Evolution, Z-Move and Dynamax interface
+- Larger battle presentation
+- Improved Doubles and Triples layout
 - Custom terrain visuals
 - Animated weather effects
 - Animated Light Screen, Reflect, Aurora Veil and Protect visuals
-- Refreshed battle backgrounds
+- Refreshed battle resources
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/battle.png" width="48%">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/screens.png" width="48%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/battle.png" width="48%" alt="Remastered Battle">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/screens.png" width="48%" alt="Battle Screens">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/metagames.png" width="48%">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/terrain.png" width="48%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/metagames.png" width="48%" alt="Battle Metagames">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/terrain.png" width="48%" alt="Battle Terrain">
 </p>
 
 ---
 
 # 📋 PokéPaste
 
-Remastered includes an integrated PokéPaste experience designed to make importing, viewing and sharing teams easier.
+Remastered includes an integrated PokéPaste experience for viewing, importing, copying and sharing teams more conveniently.
 
-### Features
+### Included functionality
 
 - Load PokéPaste links directly
 - Copy individual Pokémon sets
 - Import complete teams into Teambuilder
 - Copy teams in PokéPaste format
 - Generate shareable team links
-- Automatically save previously opened PokéPastes
+- Automatically retain previously opened PokéPastes
 - Upload PokéPaste files directly
-- Automatically open PokéPaste links inside the custom viewer
-- Persistent saved PokéPaste access
+- Open PokéPaste links inside the custom viewer
+- Preserve saved PokéPaste access between browser sessions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/pokepaste.jpg" width="75%">
-</p>
-
----
-
-# 💻 Mini Tool Browser
-
-### MTB
-
-The **Mini Tool Browser** provides quick access to Pokémon-related websites and resources without leaving the Showdown experience.
-
-The goal is to make useful external resources easier to access while building teams, battling, or browsing Pokémon information.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/homepage.png" width="75%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/pokepaste.jpg" width="80%" alt="PokéPaste">
 </p>
 
 ---
 
 # 🧩 Quality of Life
 
-Small improvements can make a big difference.
-
-Remastered includes:
+Remastered contains numerous smaller improvements designed to make everyday use of the client smoother.
 
 - Cleaner interface elements
 - Improved navigation
@@ -140,67 +183,22 @@ Remastered includes:
 - Custom colors throughout the interface
 - Color-coded moves
 - Smoother animations
-- Refreshed Pokémon resources
+- Refreshed Pokémon sprites
 - Updated type icons
 - Updated move buttons
 - Updated Mega / Legends ZA resources
-- Improved sprites and visual assets
+- Improved visual assets
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/teambuilder.png" width="48%">
-  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/profiles.png" width="48%">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/teambuilder.png" width="48%" alt="Remastered Teambuilder">
+  <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/profiles.png" width="48%" alt="Remastered Profiles">
 </p>
 
 ---
 
-# 🛠️ Installation
+# 📰 Updates
 
-### Step 1 — Install Tampermonkey
-
-Install **Tampermonkey** for your browser.
-
-**Chrome:**  
-https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-### Step 2 — Open Tampermonkey
-
-Open your browser's:
-
-**Extensions → Manage Extensions → Tampermonkey**
-
-### Step 3 — Enable Userscripts
-
-Make sure:
-
-- **Allow User Scripts** is enabled
-- **Developer Mode** is enabled if required by your browser
-
-### Step 4 — Install Remastered
-
-Open the Remastered userscript from **Greasy Fork** or this GitHub repository and click **Install**.
-
-After installation:
-
-**Refresh Pokémon Showdown → Remastered loads automatically.**
-
----
-
-# 🔄 Updates
-
-Remastered is continuously updated with visual improvements, bug fixes, compatibility updates and new features.
-
-### How to update
-
-1. 📩 You may receive a notification when a new update is available.
-2. ⬇️ Use the provided update button to download and install the latest script.
-3. 🌐 You can also manually check **GitHub** or **Greasy Fork** for the latest release.
-4. 🔄 Refresh Pokémon Showdown after updating.
-
----
-
-# 📰 Current Development
-
-Remastered continues to evolve alongside Pokémon Showdown.
+Remastered is continuously refined with new features, visual improvements, bug fixes and compatibility updates.
 
 ### Current improvements
 
@@ -213,16 +211,27 @@ Remastered continues to evolve alongside Pokémon Showdown.
 - UI and resource fixes
 - Improved Pokémon resources
 
-### Coming next
+### What's next
 
-- New Pokémon Showdown client compatibility
-- Better MTB functionality
+- Improved compatibility with newer Pokémon Showdown client updates
 - Private message chat bubbles
 - Better client integration
 - More themes and visual resources
 - Additional quality-of-life features
 - More battle improvements
+- Continued resource updates
 - And much more
+
+---
+
+# 🔄 Updating
+
+When a new Remastered version is released:
+
+1. 📩 You may receive a notification about the update.
+2. ⬇️ Use the provided update button to download and install the latest userscript.
+3. 🌐 You can also manually check **[GitHub](https://github.com/AnujSharma2008/psr)** or **[Greasy Fork](https://greasyfork.org/)** for the newest version.
+4. 🔄 Refresh Pokémon Showdown after updating.
 
 ---
 
@@ -230,35 +239,38 @@ Remastered continues to evolve alongside Pokémon Showdown.
 
 ### Remastered isn't appearing
 
-1. Check that Tampermonkey is installed.
-2. Open **Manage Extensions**.
-3. Make sure Tampermonkey is enabled.
-4. Make sure **Allow User Scripts** is enabled.
-5. Make sure the Remastered userscript itself is enabled.
-6. Refresh Pokémon Showdown.
+Make sure:
+
+- Tampermonkey is installed and enabled.
+- The Remastered userscript is enabled.
+- **Allow User Scripts** is enabled.
+- Developer Mode is enabled if required by your browser.
+- Pokémon Showdown has been refreshed.
 
 ### Something looks broken
 
 Try refreshing the page first.
 
-If another userscript or browser extension modifies the same elements, it may conflict with Remastered.
+Other userscripts or browser extensions may modify the same elements as Remastered and cause visual conflicts.
 
-If the issue continues, please report it with a screenshot and description.
+If the issue continues, contact us on **Discord** and include a description or screenshot of the problem.
 
 ---
 
 # 💬 Support
 
-Found a bug, have a suggestion, or something isn't working?
+Found a bug or have a suggestion?
 
-Contact us on **Discord** and provide:
+**Contact us on [Discord](https://discord.com/users/1551680556474040343).**
+
+When reporting an issue, please include:
 
 - What happened
 - What you expected
 - A screenshot if possible
-- Any relevant error or information
+- Any relevant information about the issue
 
-Your feedback helps improve future Remastered releases.
+Your feedback helps shape future Remastered releases.
 
 ---
 
@@ -279,29 +291,37 @@ Special thanks to the supporters, bug hunters, testers and everyone who continue
 
 # 📚 Resources & Inspiration
 
-Remastered makes use of resources and inspiration from various parts of the Pokémon community, including:
+Remastered uses resources and inspiration from various parts of the Pokémon community.
 
-- Alpha Coders — Wallpapers & theme backgrounds
-- Reddit — GIFs & other resources
-- Bulbapedia — Type icons and more
-- PokémonDB — Pokémon sprites and resources
-- DeviantArt — Gen 5 style sprites
-- UserStyles.World — Skin and theme references
+- [Alpha Coders](https://alphacoders.com/) — Wallpapers & theme backgrounds
+- [Reddit](https://www.reddit.com/) — GIFs & other resources
+- [Bulbapedia](https://bulbapedia.bulbagarden.net/) — Type icons and resources
+- [PokémonDB](https://pokemondb.net/pokedex) — Pokémon sprites and resources
+- [DeviantArt — Retr0NC](https://www.deviantart.com/retronc/gallery/98179468/in-gen-5-style) — Gen 5 style sprites
+- [UserStyles.World](https://userstyles.world/) — Theme references
 
 ---
 
-# ❤️ Pokémon Showdown Remastered
+# ⚠️ Disclaimer
+
+Pokémon Showdown Remastered is a **community-made client customization**.
+
+It is not affiliated with, endorsed by, or sponsored by Pokémon Showdown or The Pokémon Company unless explicitly stated otherwise.
+
+Pokémon Showdown and related trademarks belong to their respective owners.
+
+---
+
+<h2 align="center">💙 Pokémon Showdown Remastered</h2>
 
 <p align="center">
   <strong>Keep the gameplay. Reimagine the experience.</strong>
 </p>
 
 <p align="center">
-  ✨ Built with passion<br>
-  🎨 Designed for the community<br>
-  🚀 Always evolving
+  ✨ Built with passion • 🎨 Designed for the community • 🚀 Always evolving
 </p>
 
 <p align="center">
-  <strong>❤️ Made with love for the Pokémon Showdown community.</strong>
+  ❤️ Made with love for the Pokémon Showdown community.
 </p>
