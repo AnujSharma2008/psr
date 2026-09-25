@@ -11385,7 +11385,7 @@ if (!window.__psrNewsResourcesClickHandler) {
 			<ol>
 				<li><strong>📩 Update Notification:</strong> You may receive a notification through Pokémon Showdown when a new Remastered update is available.</li>
 				<li><strong>⬇️ Download the Update:</strong> When notified, use the provided update button to download the latest Remastered userscript and install it.</li>
-				<li><strong>🌐 Manual Updates:</strong> You can also check the <a href="https://github.com/AnujSharma2008/psr" target="_blank">GitHub</a> repository or <a href="https://greasyfork.org/" target="_blank">Greasy Fork</a> for the latest version.</li>
+				<li><strong>🌐 Manual Updates:</strong> You can also check the <a href="https://github.com/AnujSharma2008/psr" target="_blank">GitHub</a> repository or <a href="https://greasyfork.org/en/scripts/597283-pokemon-showdown-remastered/" target="_blank">Greasy Fork</a> for the latest version.</li>
 				<li><strong>🔄 Stay Updated:</strong> After installing a new version, refresh Pokémon Showdown to apply the latest Remastered changes.</li>
 			</ol>
 		</div>
@@ -11435,7 +11435,7 @@ if (!window.__psrNewsResourcesClickHandler) {
 				<li><strong>Step 1 — Download Tampermonkey:</strong> Install <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en" target="_blank">Tampermonkey</a> from the Chrome Web Store.</li>
 				<li><strong>Step 2 — Open Tampermonkey:</strong> Open your browser's extensions menu, go to <strong>Manage Extensions</strong>, and open Tampermonkey.</li>
 				<li><strong>Step 3 — Enable Permissions:</strong> Turn on <strong>Allow User Scripts</strong> and enable <strong>Developer Mode</strong> if required by your browser.</li>
-				<li><strong>Step 4 — Install Remastered:</strong> Open the Remastered file from <a href="https://greasyfork.org/" target="_blank">Greasy Fork</a> or <a href="https://github.com/AnujSharma2008/psr" target="_blank">GitHub</a>, click <strong>Install</strong>, and confirm the installation. That's it! 🎉</li>
+				<li><strong>Step 4 — Install Remastered:</strong> Open the Remastered file from <a href="https://greasyfork.org/en/scripts/597283-pokemon-showdown-remastered/" target="_blank">Greasy Fork</a> or <a href="https://github.com/AnujSharma2008/psr" target="_blank">GitHub</a>, click <strong>Install</strong>, and confirm the installation. That's it! 🎉</li>
 			</ol>
 			<p><strong>✨ Once installed, refresh Pokémon Showdown and Remastered will load automatically.</strong></p>
 		</div>
@@ -11898,13 +11898,48 @@ if (!window.__psrNewsResourcesClickHandler) {
 		</div>
 	</section>
 	<footer id="contact" class="psr-footer">
-		<p class="psr-footer-title"> 💙 Pokémon Showdown Remastered </p>
-		<p class="psr-footer-description"> ✨ A community-made project built with love for the Pokémon Showdown community. </p>
-		<p class="psr-footer-message"> 🛠️ Non-profit project • 🚀 More improvements coming • 💫 Keep supporting us for future updates! </p> <a href="https://discord.com/users/1551680556474040343" class="psr-footer-contact" target="_blank" rel="noopener noreferrer">
-    📩 Contact Us
-</a>
-		<p class="psr-footer-ending"> <span>  ❤️ Made with love </span><span> 🎨 Built for the community</span> <span> 🌟 More to come</span> </p>
-	</footer>
+    <p class="psr-footer-title">💙 Pokémon Showdown Remastered</p>
+
+    <p class="psr-footer-description">
+        ✨ A community-made project built with love for the Pokémon Showdown community.
+    </p>
+
+    <p class="psr-footer-message">
+        🛠️ Non-profit project • 🚀 More improvements coming • 💫 Keep supporting us for future updates!
+    </p>
+
+    <!-- NEW: Contact Info -->
+    <div class="psr-footer-info">
+        <div class="psr-footer-info-row">
+            <span>💬</span>
+            <span>Discord</span>
+            <strong>remastered_ps</strong>
+        </div>
+
+        <div class="psr-footer-info-divider"></div>
+
+        <div class="psr-footer-info-row">
+            <span>🎮</span>
+            <span>Pokémon Showdown</span>
+            <strong>Nikizzz_Chan</strong>
+        </div>
+
+        <div class="psr-footer-info-row">
+            <span>🎮</span>
+            <span>Pokémon Showdown</span>
+            <strong>Altacc808</strong>
+        </div>
+    </div>
+    <br>
+    <a href="https://discord.com/users/1551680556474040343" class="psr-footer-contact" target="_blank" rel="noopener noreferrer">
+        📩 Contact Us
+    </a>
+    <p class="psr-footer-ending">
+        <span>❤️ Made with love</span>
+        <span>🎨 Built for the community</span>
+        <span>🌟 More to come</span>
+    </p>
+</footer>
 </div>
 `;
 
@@ -23481,6 +23516,39 @@ body[style*="shaymin"] button[name="delete"]:hover::before {
     .psr-footer-contact:active {
         transform: none;
     }
+}
+.psr-footer-info {
+    display: inline-flex;
+    flex-direction: column;
+    min-width: 290px;
+    margin-top: 16px;
+    padding: 7px 14px;
+    border: 1px solid rgba(255,255,255,.10);
+    border-radius: 9px;
+    background: rgba(255,255,255,.035);
+}
+
+.psr-footer-info-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 29px;
+    font-size: 11px;
+    color: rgba(245,248,255,.55);
+    text-align: left;
+}
+
+.psr-footer-info-row strong {
+    margin-left: auto;
+    color: rgba(245,248,255,.9);
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.psr-footer-info-divider {
+    height: 1px;
+    margin: 2px 0;
+    background: rgba(255,255,255,.07);
 }
 .psr-bulletin {
     display: grid;
