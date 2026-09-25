@@ -69,11 +69,7 @@ Choose the version you want to install:
 
 | # | Version | Release | Installation |
 |---|---|---|---|
-| 1 | **Latest Release** | v1.0 | [Install](YOUR_INSTALL_LINK_HERE) |
-| 2 | **Beta / Testing** | v1.0-beta | [Install](YOUR_BETA_INSTALL_LINK_HERE) |
-| 3 | **Previous Release** | v0.x | [Install](YOUR_OLD_VERSION_LINK_HERE) |
-| 4 | **Development Build** | Dev | [Install](YOUR_DEV_INSTALL_LINK_HERE) |
-| 5 | **Legacy Release** | v0.x | [Install](YOUR_LEGACY_INSTALL_LINK_HERE) |
+| 1 | **Latest Release** | v1.0 | [Install](https://github.com/AnujSharma2008/psr/raw/refs/heads/main/Pokemon%20Showdown%20Remastered%20v1.0.user.js) |
 
 > 💡 **Recommended:** Use the **Latest Release** unless you specifically want to test another version.
 
@@ -257,7 +253,7 @@ If the issue continues, contact us on **Discord** and include a description or s
 
 <p align="center">
   <a href="https://discord.com/users/1551680556474040343">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="22" alt="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="18" alt="Discord">
     <strong> Discord</strong>
   </a>
 </p>
