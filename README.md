@@ -70,7 +70,7 @@ Choose the version you want to install:
 
 | # | Version | Installation |
 |---|---|---|
-| 1 | **Latest Release - v1.0** | [Install]([YOUR_INSTALL_LINK_HERE](https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/Pokemon%20Showdown%20Remastered%20v1.0.user.js) |
+| 1 | **Latest Release - v1.0** | [Install](https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/Pokemon%20Showdown%20Remastered%20v1.0.user.js) |
 
 > 💡 **Recommended:** Use the **Latest Release** unless you specifically want to test another version.
 
