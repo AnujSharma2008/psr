@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://greasyfork.org/">Greasy Fork</a> •
   <a href="https://github.com/AnujSharma2008/psr">GitHub</a> •
   <a href="https://discord.com/users/1551680556474040343">Discord</a>
 </p>
@@ -68,9 +67,13 @@ If your browser requires it, also enable **Developer Mode**.
 
 Choose the version you want to install:
 
-| # | Version | Installation |
-|---|---|---|
-| 1 | **Latest Release - v1.0** | [Install](https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/Pokemon%20Showdown%20Remastered%20v1.0.user.js) |
+| # | Version | Release | Installation |
+|---|---|---|---|
+| 1 | **Latest Release** | v1.0 | [Install](YOUR_INSTALL_LINK_HERE) |
+| 2 | **Beta / Testing** | v1.0-beta | [Install](YOUR_BETA_INSTALL_LINK_HERE) |
+| 3 | **Previous Release** | v0.x | [Install](YOUR_OLD_VERSION_LINK_HERE) |
+| 4 | **Development Build** | Dev | [Install](YOUR_DEV_INSTALL_LINK_HERE) |
+| 5 | **Legacy Release** | v0.x | [Install](YOUR_LEGACY_INSTALL_LINK_HERE) |
 
 > 💡 **Recommended:** Use the **Latest Release** unless you specifically want to test another version.
 
@@ -80,7 +83,7 @@ After clicking **Install**, confirm the installation in Tampermonkey.
 
 ---
 
-# 🌟 Features
+# 🌟 Important Features
 
 ## 🎨 Refreshed Visual Experience
 
@@ -92,8 +95,6 @@ Remastered gives the client a completely refreshed visual identity while keeping
 - Refined homepage presentation
 - Updated Teambuilder styling
 - Smoother transitions and animations
-- Improved visual feedback
-- Consistent styling across the client
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/homepage.png" width="80%" alt="Remastered Homepage">
@@ -109,7 +110,6 @@ Remastered introduces custom themes designed to give the client a more immersive
 - Color-coded themes
 - Consistent theme styling across the client
 - Custom visual resources
-- Additional customization planned
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/theme1.png" width="48%" alt="Remastered Theme 1">
@@ -134,11 +134,8 @@ Remastered enhances the visual presentation of battles without changing the fund
 - Redesigned battle interface
 - Improved move buttons and tooltips
 - Enhanced Mega Evolution, Z-Move and Dynamax interface
-- Larger battle presentation
-- Improved Doubles and Triples layout
 - Custom terrain visuals
 - Animated weather effects
-- Animated Light Screen, Reflect, Aurora Veil and Protect visuals
 - Refreshed battle resources
 
 <p align="center">
@@ -163,11 +160,8 @@ Remastered includes an integrated PokéPaste experience for viewing, importing, 
 - Copy individual Pokémon sets
 - Import complete teams into Teambuilder
 - Copy teams in PokéPaste format
-- Generate shareable team links
 - Automatically retain previously opened PokéPastes
 - Upload PokéPaste files directly
-- Open PokéPaste links inside the custom viewer
-- Preserve saved PokéPaste access between browser sessions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/pokepaste.jpg" width="80%" alt="PokéPaste">
@@ -190,8 +184,6 @@ Remastered contains numerous smaller improvements designed to make everyday use 
 - Refreshed Pokémon sprites
 - Updated type icons
 - Updated move buttons
-- Updated Mega / Legends ZA resources
-- Improved visual assets
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/teambuilder.png" width="48%" alt="Remastered Teambuilder">
@@ -234,7 +226,7 @@ When a new Remastered version is released:
 
 1. 📩 You may receive a notification about the update.
 2. ⬇️ Use the provided update button to download and install the latest userscript.
-3. 🌐 You can also manually check **[GitHub](https://github.com/AnujSharma2008/psr)** or **[Greasy Fork](https://greasyfork.org/)** for the newest version.
+3. 🌐 You can always check **[GitHub](https://github.com/AnujSharma2008/psr)** for the newest version.
 4. 🔄 Refresh Pokémon Showdown after updating.
 
 ---
@@ -261,48 +253,24 @@ If the issue continues, contact us on **Discord** and include a description or s
 
 ---
 
-# 💬 Support
+# 📞 Contact
 
-Found a bug or have a suggestion?
+<p align="center">
+  <a href="https://discord.com/users/1551680556474040343">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="22" alt="Discord">
+    <strong> Discord</strong>
+  </a>
+</p>
 
-**Contact us on [Discord](https://discord.com/users/1551680556474040343).**
+<p align="center">
+  <strong>Pokémon Showdown:</strong><br>
+  🎮 <strong>Nikizzz_Chan</strong><br>
+  🎮 <strong>Altacc808</strong>
+</p>
 
-When reporting an issue, please include:
-
-- What happened
-- What you expected
-- A screenshot if possible
-- Any relevant information about the issue
-
-Your feedback helps shape future Remastered releases.
-
----
-
-# 👥 Credits
-
-Pokémon Showdown Remastered is made possible by developers, testers, contributors and community members.
-
-### Development
-
-- **Nikizzz_Chan** — Lead Developer
-- **Altacc808** — Testing & QA
-
-### Community
-
-Special thanks to the supporters, bug hunters, testers and everyone who continues to support the project.
-
----
-
-# 📚 Resources & Inspiration
-
-Remastered uses resources and inspiration from various parts of the Pokémon community.
-
-- [Alpha Coders](https://alphacoders.com/) — Wallpapers & theme backgrounds
-- [Reddit](https://www.reddit.com/) — GIFs & other resources
-- [Bulbapedia](https://bulbapedia.bulbagarden.net/) — Type icons and resources
-- [PokémonDB](https://pokemondb.net/pokedex) — Pokémon sprites and resources
-- [DeviantArt — Retr0NC](https://www.deviantart.com/retronc/gallery/98179468/in-gen-5-style) — Gen 5 style sprites
-- [UserStyles.World](https://userstyles.world/) — Theme references
+<p align="center">
+  Have a bug, suggestion, or feedback? Reach out through Discord.
+</p>
 
 ---
 
