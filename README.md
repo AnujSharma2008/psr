@@ -32,7 +32,7 @@ Remastered introduces refreshed resources, custom themes, enhanced battle visual
 
 # 🛠️ Installation
 
-Getting started takes only a few steps.
+Getting started takes only a few simple steps.
 
 ### 1. Download Tampermonkey
 
@@ -64,15 +64,19 @@ If your browser requires it, also enable **Developer Mode**.
   <img src="https://raw.githubusercontent.com/AnujSharma2008/psr/refs/heads/main/assets/misc/installation3.jpg" width="80%" alt="Enable User Scripts">
 </p>
 
-### 4. Install Remastered
+### 4. Install Pokémon Showdown Remastered
 
-Open the Remastered userscript from **[Greasy Fork](https://greasyfork.org/)** or **[GitHub](https://github.com/AnujSharma2008/psr)**.
+Choose the version you want to install:
 
-Click **Install** and confirm the installation.
+| # | Version | Installation |
+|---|---|---|
+| 1 | **Latest Release - v1.0** | [Install](YOUR_INSTALL_LINK_HERE) |
 
-That's it. 🎉
+> 💡 **Recommended:** Use the **Latest Release** unless you specifically want to test another version.
 
-**Refresh Pokémon Showdown and Remastered will load automatically.**
+After clicking **Install**, confirm the installation in Tampermonkey.
+
+**That's it! 🎉 Refresh Pokémon Showdown and Remastered will load automatically.**
 
 ---
 
