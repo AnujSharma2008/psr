@@ -13887,8 +13887,7 @@ input::placeholder {
     margin-top: 3px !important;
     border-radius: 6px !important;
     width: 759px !important;
-    min-height: 243px !important;
-    max-height: 243px !important;
+    height: calc(100% - 430px) !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
 }
@@ -14093,7 +14092,7 @@ button[name="chooseShift"] {
     border: none;
     overflow-x: hidden !important;
     left: 766px!important;
-    height: 626px;
+    height: calc(100% - 43px) !important;
 }
 .ps-room .battle-log-add {
     min-height: 0px !important;
@@ -14127,7 +14126,7 @@ button[name="chooseShift"] {
     margin: 6px;
     color: hsl(0, 0%, 100%);
     box-shadow: none;
-    max-height: 660px;
+    height: 660px;
 }
 .chatbox {
     padding: 0px !important;
@@ -22082,14 +22081,12 @@ body[style*="shaymin"] button[name="delete"]:hover::before {
     backdrop-filter: blur(5px);
     width: 500px !important;
     overflow-x: hidden !important;
-    margin-left: 1046px;
 }
 #room-rooms-panel {
     position: fixed !important;
     top: 56px !important;
-    right: 0 !important;
+    left: 505px !important;
     bottom: 0 !important;
-    width: 1034px !important;
     height: auto !important;
     margin: 6px !important;
     padding: 0 !important;
