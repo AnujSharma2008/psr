@@ -17329,7 +17329,6 @@ button[name="edit"] {
     right: 0 !important;
     bottom: 0 !important;
     left: 716px !important;
-    max-width: 824px !important;
     height: auto !important;
     margin: 6px !important;
     padding: 0 !important;
