@@ -14126,7 +14126,6 @@ button[name="chooseShift"] {
     margin: 6px;
     color: hsl(0, 0%, 100%);
     box-shadow: none;
-    height: 660px;
 }
 .chatbox {
     padding: 0px !important;
