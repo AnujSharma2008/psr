@@ -14092,7 +14092,7 @@ button[name="chooseShift"] {
     border-radius: 6px 6px 0px 0px !important;
     border: none;
     overflow-x: hidden !important;
-    left: 766px;
+    left: 766px!important;
     height: 626px;
 }
 .ps-room .battle-log-add {
